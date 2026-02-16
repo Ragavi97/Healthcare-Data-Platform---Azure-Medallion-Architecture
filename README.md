@@ -41,3 +41,29 @@ Azure Data Lake Storage Gen2
 Central storage for raw and processed datasets
 
 Supports structured & semi-structured data
+
+## Data Processing & Transformation
+
+Azure Databricks performs data engineering workflows using Spark.
+
+🥉 Bronze Layer
+
+Raw ingestion
+
+Data stored as-is
+
+Schema preservation
+
+🥈 Silver Layer
+
+Data cleansing & validation
+
+Handling missing values & duplicates
+
+Standardization & schema enforcement
+
+🥇 Gold Layer
+
+Aggregated & business-ready datasets
+
+Optimized for analytics & reporting
