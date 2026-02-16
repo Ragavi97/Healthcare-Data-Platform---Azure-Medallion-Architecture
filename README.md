@@ -26,3 +26,18 @@ subscriber_record.csv</li>
   
 </ul>
 
+## Data Ingestion
+
+Azure Data Factory orchestrates data movement:
+
+Extracts data from MySQL, Cosmos DB, and Blob Storage
+
+Loads raw data into the data lake
+
+## Storage Layer
+
+Azure Data Lake Storage Gen2
+
+Central storage for raw and processed datasets
+
+Supports structured & semi-structured data
