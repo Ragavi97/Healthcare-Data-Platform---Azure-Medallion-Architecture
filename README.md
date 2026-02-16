@@ -1,2 +1,4 @@
 # Healthcare-Data-Platform---Azure-Medallion-Architecture
-Implemented an end to end pipeline that will fetch data from multiple sources and the data gets processed using the services available in Azure and the final processed data gets stored in SQL database.
+<h2>Project Overview</h2>
+This project implements a modern healthcare analytics platform built on Microsoft Azure using a Medallion Architecture (Bronze → Silver → Gold).
+The solution ingests healthcare data from multiple sources, processes it using Azure data services, and delivers curated insights through Power BI Embedded dashboards.
