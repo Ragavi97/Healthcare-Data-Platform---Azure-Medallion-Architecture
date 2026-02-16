@@ -7,3 +7,22 @@ The solution ingests healthcare data from multiple sources, processes it using A
 
 ![Healthcare Architecture](Healthcare-architecture.png)
 
+
+## Data Sources
+<ul>
+<li>MySQL → Hospital_TB</li>
+<li>Azure Cosmos DB → claims.json</li>
+<li>Azure Blob Storage →
+
+disease.csv
+
+group.csv
+
+subgroup.csv
+
+patient.csv
+
+subscriber_record.csv</li>
+  
+</ul>
+
