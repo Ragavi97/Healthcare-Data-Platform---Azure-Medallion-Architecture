@@ -46,7 +46,7 @@ Supports structured & semi-structured data
 
 Azure Databricks performs data engineering workflows using Spark.
 
-### 🥉 Bronze Layer
+<h3> 🥉 Bronze Layer</h3>
 
 Raw ingestion
 
@@ -54,7 +54,7 @@ Data stored as-is
 
 Schema preservation
 
-### 🥈 Silver Layer
+<h3>🥈 Silver Layer</h3>
 
 Data cleansing & validation
 
@@ -62,7 +62,7 @@ Handling missing values & duplicates
 
 Standardization & schema enforcement
 
-### 🥇 Gold Layer
+<h3> 🥇 Gold Layer </h3>
 
 Aggregated & business-ready datasets
 
